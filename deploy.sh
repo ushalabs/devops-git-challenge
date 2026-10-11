@@ -1,0 +1,1 @@
+echo "Deploying the approved build to the staging environment"
