@@ -1,1 +1,1 @@
-echo "Deploying development build to staging environment"
+echo "Deploying the approved build to the staging environment"
